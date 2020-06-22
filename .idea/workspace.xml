@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3163f39e-6e29-429d-9fc8-8149744139f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B11_CauTrucLap_2/BaiTap/1.Bang_cuu_chuong/MyJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/B11_CauTrucLap_2/BaiTap/1.Bang_cuu_chuong/MyJS.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,8 @@
       <workItem from="1584307259076" duration="189000" />
       <workItem from="1584307731178" duration="25000" />
       <workItem from="1585699042260" duration="757000" />
+      <workItem from="1585963438727" duration="38000" />
+      <workItem from="1592812907226" duration="67000" />
     </task>
     <task id="LOCAL-00001" summary="Add PhanHuuTaiDuc_BootcampPreparation_2.0">
       <created>1584307378983</created>
